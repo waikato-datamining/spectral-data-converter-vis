@@ -14,7 +14,7 @@ def _read(f):
 
 setup(
     name="spectral_data_converter_vis",
-    description="Visualiation plugins for the spectral-data-converter library.",
+    description="Visualization plugins for the spectral-data-converter library.",
     long_description=(
             _read('DESCRIPTION.rst') + b'\n' +
             _read('CHANGES.rst')).decode('utf-8'),
