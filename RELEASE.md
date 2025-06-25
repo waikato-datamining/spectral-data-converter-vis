@@ -5,7 +5,7 @@ Preparation:
 
 * update help screens
 
-  `sdc-help -f markdown -o plugins -T pipeline -i README.md -l INFO`
+  `sdc-help -f markdown -o plugins -T pipeline -i README.md -l INFO -t "visualization plugins"`
   
 * increment version in `setup.py`
 * add new changelog section in `CHANGES.rst`
