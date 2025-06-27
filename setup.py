@@ -23,7 +23,7 @@ setup(
         'Development Status :: 4 - Beta',
         'License :: OSI Approved :: MIT License',
         'Topic :: Scientific/Engineering',
-        'Topic :: Scientific/Engineering :: Image Processing',
+        'Topic :: Scientific/Engineering :: Visualization',
     ],
     license='MIT License',
     package_dir={
