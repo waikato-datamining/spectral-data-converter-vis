@@ -4,7 +4,8 @@ from typing import List
 
 from wai.logging import LOGGING_WARNING
 
-from sdc.api import Spectrum2D, BatchWriter
+from kasperl.api import BatchWriter
+from sdc.api import Spectrum2D
 
 LEGEND_LOCATIONS = [
     'best',
